@@ -1,0 +1,67 @@
+.title1{
+    font-size:15px;
+    display: flex;
+
+    justify-content:center;
+    align-items:flex-end;
+}
+.item{
+    border:2px black solid
+}
+
+.header{
+    background-color:magenta;
+    display: flex;
+    justify-content:space-between;
+}
+.youtubelink{
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-size: 30px;
+}
+.headings{
+    font-size:35px;
+}
+.facts{
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-size: 30px;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-evenly;
+    border:2px black solid;
+}
+.afhobb{
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-size: 30px;
+}
+.hobby{
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content:left;
+    font-size: 30px;
+}
+h2,p{
+    text-align:center;
+
+}
+*{
+    background-color: aqua;
+    border: cyan;
+}
+.aboutme{
+    display: flex;
+    justify-content:center;
+    font-size:20px;
+}
